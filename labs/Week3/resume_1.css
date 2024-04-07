@@ -1,0 +1,85 @@
+*{
+	font-family: Helvetica;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 300px;
+	
+}
+
+.header{
+	text-align: center;
+	
+}
+
+body{
+	background-color: grey;
+	border: 2px solid gold;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+h2{
+	font-weight: bold;
+	font-size: 21x;
+	color: gold;
+}
+
+h3,
+h4,
+.summary{
+	color: white;
+	
+}
+.school{
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: underline;
+}
+
+.degree{
+	font-weight: 100;
+	font-size: 15px;
+}
+
+.job{
+	font-style: italic;
+	text-decoration: underline;
+	font-size: 15px;
+}
+
+li{
+	color: white;
+	font-weight: 100;
+	font-size: 15px;
+}
+
+.intro{
+	color: gold;
+	padding: 0px;
+	margin: 0px;
+}
+
+a{
+	color: white;
+	letter-spacing: 1px;
+	padding: 10px;
+	
+}
+a:hover{
+	color: darkturquoise;
+}
+
+.Sum,
+.Edu,
+.Ski,
+.Exp,
+.Cert{
+	border: 2px solid gold;
+	background-color: maroon;
+	margin: 7px;
+	padding: 7px;
+}
